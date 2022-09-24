@@ -11,4 +11,4 @@ The XGBoost model with a probability threshold of 0.4 is evaluated to be the bes
 ![ROC](./outputs/ROCchart.png)
 
 ## Data
-The loan data includes application information like loan grade and behavioral data, which describes the recipient of the loan, such as employment length. The target variable used in this project is the loan default flag. 
+The loan data has 11 features and a loan status label which includes application information like loan grade and behavioral data of the borrower.
