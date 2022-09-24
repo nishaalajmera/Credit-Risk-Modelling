@@ -7,6 +7,7 @@ F1 score incorporates the precision and sensitivity of the model to predict defa
 
 ## Results 
 The XGBoost model with a probability threshold of 0.4 is evaluated to be the best model based on the F-1 scores and ROC plot.
+/
 ![ROC](./outputs/ROCchart.png)
 
 ## Data
